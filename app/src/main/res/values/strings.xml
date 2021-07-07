@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">LED Сontrol</string>
+
+    <string name="led_1_on">LED 1 On</string>
+    <string name="led_1_off">LED 1 Off</string>
+
+    <string name="led_2_on">LED 2 On</string>
+    <string name="led_2_off">LED 2 Off</string>
+
+    <string name="led_3_on">LED 3 On</string>
+    <string name="led_3_off">LED 3 Off</string>
+
+    <string name="led_4_on">LED 4 On</string>
+    <string name="led_4_off">LED 4 Off</string>
+
+</resources>
